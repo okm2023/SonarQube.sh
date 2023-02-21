@@ -1,0 +1,2 @@
+# SonarQube.sh
+q
